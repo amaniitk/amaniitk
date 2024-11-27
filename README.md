@@ -10,5 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aman-kumar-074116228/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://instagram.com/hmm_aman_)
 
-
+<p align="center">
+  <img src="[https://media.giphy.com/media/xTiTnHXbRoaZ1B1MoA/giphy.gif" width="200" height="200" alt="Profile GIF](https://giphy.com/gifs/gameofthrones-game-of-thrones-hbo-3o6ozsTeR2bs1hjBU4)">
+</p>
 
